@@ -1,1 +1,1 @@
-# AIML-Projects-June
+lab assignments for supervised learning
